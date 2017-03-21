@@ -1,7 +1,7 @@
 {Check It!|assessment}(multiple-choice-3536996212)
 |||guidance
 # Answer: 
-**False**
+**False. There is no way to “decrypt” the message to the original from the hash value.**
 |||
 {Check It!|assessment}(multiple-choice-3935225991)
 |||guidance
@@ -13,6 +13,8 @@
 |||
 
 Pending questions
+
+Learning Objective 3.2
 Explain how the lack of the collision resistance property defies the purpose of a hash function.
 Answer: Hash functions can be used to check the integrity of a file. If collision resistance property lacks in a hash function, two files that have the same hash value may be found, reducing confidence in the detection of a change in a file. 
 

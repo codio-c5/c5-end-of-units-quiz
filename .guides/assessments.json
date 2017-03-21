@@ -1,0 +1,405 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-729063330",
+  "source": {
+   "name": "Question 1",
+   "showName": false,
+   "instructions": "**You store personal documents and spreadsheets with a cloud provider. You would like your data to be available only to people having a special unlock key. What should you apply to your documents and spreadsheets?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "91d73a7f-9a04-a5fd-4836-83ef56dfc3d6",
+     "correct": false,
+     "answer": "File Hashing"
+    },
+    {
+     "_id": "1c02e5b0-6ef1-c311-19dd-6666e0de6827",
+     "correct": true,
+     "answer": "File encryption"
+    },
+    {
+     "_id": "519129d6-fa89-31de-d5d0-220a65b8b77b",
+     "correct": false,
+     "answer": "File permissions"
+    },
+    {
+     "_id": "17fe419a-7f72-170d-37b0-f3d42bae5754",
+     "correct": false,
+     "answer": "File backup"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2520104270",
+  "source": {
+   "name": "Question2",
+   "showName": false,
+   "instructions": "**In which of the following attack scenarios does the attacker has most power?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "ea1a7c63-9aee-2014-9cd9-f5df9a9d5b3b",
+     "correct": false,
+     "answer": "Ciphertext only attacks"
+    },
+    {
+     "_id": "927483fe-32d0-49c9-b76d-cb592fe8d672",
+     "correct": false,
+     "answer": "Known plaintext attacks"
+    },
+    {
+     "_id": "021a706f-ae11-cc7c-0d92-1edc87f974ff",
+     "correct": false,
+     "answer": "Chosen plaintext attacks"
+    },
+    {
+     "_id": "03db8b37-9451-349c-2857-9ccc4e8c7556",
+     "correct": true,
+     "answer": "Chosen ciphertext attacks"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-397295262",
+  "source": {
+   "name": "Question3",
+   "showName": false,
+   "instructions": "**Alice uses a shift cipher with a shift of 4 to encrypt her message to Bob. If the ciphertext she obtains is \"ksshpygo\", what is her message in plaintext?**",
+   "points": "1",
+   "showValues": false,
+   "text": "<<<goodluck>>>",
+   "tokens": {
+    "blank": [
+     "goodluck"
+    ],
+    "text": [
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-224359781",
+  "source": {
+   "name": "Question4",
+   "showName": false,
+   "instructions": "**Which of the following are symmetric key ciphers? Select all that apply.**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "147c0f06-349e-3cd3-04db-788ad5a775b5",
+     "correct": true,
+     "answer": "DES"
+    },
+    {
+     "_id": "82c46c5d-e7e2-c2de-95a0-4c493c72ba3b",
+     "correct": false,
+     "answer": "RSA"
+    },
+    {
+     "_id": "441bcd87-36ff-5a4a-f4fc-85b3af74db96",
+     "correct": false,
+     "answer": "Diffie-Hellman"
+    },
+    {
+     "_id": "5fc9bc00-67e6-9f22-ee00-cc3af2444416",
+     "correct": true,
+     "answer": "AES"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2737157223",
+  "source": {
+   "name": "Question5",
+   "showName": false,
+   "instructions": "**What is the main challenge in symmetric encryption?**",
+   "points": "1",
+   "showValues": true,
+   "text": "The main challenge is the <<<distribution>>> of the <<<keys>>> to the <<<communicating>>> parties beforehand",
+   "tokens": {
+    "blank": [
+     "distribution",
+     "keys",
+     "communicating"
+    ],
+    "text": [
+     "The main challenge is the ",
+     0,
+     " of the ",
+     0,
+     " to the ",
+     0,
+     " parties beforehand"
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1326124486",
+  "source": {
+   "name": "Question1",
+   "showName": false,
+   "instructions": "**Alice encrypts her message using:**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "bc27cadb-1fc5-dcf0-9f8a-00cb485f0aed",
+     "correct": false,
+     "answer": "Alice's public key"
+    },
+    {
+     "_id": "80321c1d-496f-ccd9-72c5-14085092124f",
+     "correct": false,
+     "answer": "Bob's private key"
+    },
+    {
+     "_id": "61397187-2b03-657d-7ae5-4fe23e140171",
+     "correct": false,
+     "answer": "Alice's private key"
+    },
+    {
+     "_id": "abfccbdd-cca9-61c3-91c4-d329b4598b82",
+     "correct": true,
+     "answer": "Bob's public key"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2228532584",
+  "source": {
+   "name": "Question2",
+   "showName": false,
+   "instructions": "**and Bob decrypts is using:**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "e968da87-c0a5-b94a-d268-8439d52b3897",
+     "correct": false,
+     "answer": "Alice's public key"
+    },
+    {
+     "_id": "66c137d2-5e2f-d762-271f-9e8b72429b59",
+     "correct": true,
+     "answer": "Bob's private key"
+    },
+    {
+     "_id": "139aa0a8-bba2-3f33-e2be-0265c3f7ddc0",
+     "correct": false,
+     "answer": "Bob's public key"
+    },
+    {
+     "_id": "2857e34a-8900-47ac-4aec-4d189648418f",
+     "correct": false,
+     "answer": "Alice's private key"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-445095322",
+  "source": {
+   "name": "Question3",
+   "showName": false,
+   "instructions": "**Assume Alice and Bob both have public and private keys in a public key setting. If Alice and Bob want to agree on a secret value,**",
+   "points": "1",
+   "showValues": true,
+   "text": "then Alice uses her <<<private>>> key and Bob’s <<<public>>> key to compute the secret value.",
+   "tokens": {
+    "blank": [
+     "private",
+     "public"
+    ],
+    "text": [
+     "then Alice uses her ",
+     0,
+     " key and Bob’s ",
+     0,
+     " key to compute the secret value."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3544837188",
+  "source": {
+   "name": "Question4",
+   "showName": false,
+   "instructions": "**Which of the following are symmetric key ciphers? Select all that apply.**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "8e35f938-18f0-37be-904e-670d0ff47183",
+     "correct": true,
+     "answer": "DES"
+    },
+    {
+     "_id": "c7a2c73f-91d5-472d-08ca-6eb3bf8d470f",
+     "correct": false,
+     "answer": "RSA"
+    },
+    {
+     "_id": "bb96a9cb-e7ac-a6d7-227d-e547704fec3a",
+     "correct": false,
+     "answer": "Diffie-Hellman"
+    },
+    {
+     "_id": "bfbf2278-172f-b3f0-2ff9-eb9c74d358d2",
+     "correct": true,
+     "answer": "AES"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3536996212",
+  "source": {
+   "name": "Question1",
+   "showName": false,
+   "instructions": "**True or False: Hash functions can be used for confidentiality**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "dbe04efd-8da1-3a4f-5227-99988fc28c99",
+     "correct": true,
+     "answer": "False"
+    },
+    {
+     "_id": "3e5ef8a7-bb26-6c32-1bda-fa3e266f38c8",
+     "correct": false,
+     "answer": "True"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3935225991",
+  "source": {
+   "name": "Question2",
+   "showName": false,
+   "instructions": "**Hash functions can be used for which of the following (more than one may apply):**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "c1eb3c04-2855-857a-2148-bb75238e8fe4",
+     "correct": true,
+     "answer": "Checking whether a file was corrupted during download"
+    },
+    {
+     "_id": "703b9fb6-db73-869e-cbae-4dd0963fc1f4",
+     "correct": true,
+     "answer": "Storing passwords"
+    },
+    {
+     "_id": "b872cdb4-d859-20c6-a4ed-4d763159bf96",
+     "correct": false,
+     "answer": "Hiding the content of messages so that they can be recovered only when needed"
+    },
+    {
+     "_id": "203a0bd1-eead-7d5e-81d6-354c175df0f9",
+     "correct": true,
+     "answer": "Digital signatures"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2385171572",
+  "source": {
+   "name": "Question1",
+   "showName": false,
+   "instructions": "**To sign a message for Bob, Alice encrypts the hash of her message using:**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "046d2567-0f74-2897-dac5-8e0585bf3435",
+     "correct": false,
+     "answer": "her public key"
+    },
+    {
+     "_id": "f0927432-e01c-959a-fc36-a274d0fa8434",
+     "correct": false,
+     "answer": "Bob's public key"
+    },
+    {
+     "_id": "c428d7f4-bbd1-f7ad-89f5-3ac91db64b49",
+     "correct": true,
+     "answer": "her private key"
+    },
+    {
+     "_id": "65c8c1b8-d78e-6c11-8ac2-e953ef3934dd",
+     "correct": false,
+     "answer": "Bob's private key"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-745001557",
+  "source": {
+   "name": "Question2",
+   "showName": false,
+   "instructions": "**Which of the following does a digital certificate NOT include? Select all that apply.**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "34f61ca3-a344-467b-9141-bea45efb3631",
+     "correct": true,
+     "answer": "Validity period of the certificate"
+    },
+    {
+     "_id": "363fa317-c1ff-1e72-35ba-a77fcfdf763f",
+     "correct": false,
+     "answer": "Private key of the issuer"
+    },
+    {
+     "_id": "ca94cfbf-98b9-73f1-63c8-93c8eec856f9",
+     "correct": true,
+     "answer": "Algorithm to verify the signature"
+    },
+    {
+     "_id": "8bb2e925-ae94-7042-d1fa-fa37e360dc52",
+     "correct": true,
+     "answer": "Signature of the issuer"
+    }
+   ]
+  }
+ }
+]

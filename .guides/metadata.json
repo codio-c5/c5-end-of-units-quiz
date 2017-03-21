@@ -1,0 +1,64 @@
+{
+ "sections": [
+  {
+   "id": "a45f9e02-e7fc-9d33-373a-fb41f5ce43fc",
+   "title": "End of Units Quiz",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/End-of-Units-Quiz-a45f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "fa66d0a4-ed5e-6da3-e190-0d2e21d5c829",
+   "title": "Unit1: Symmetric Key Cryptography Quiz",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Unit1--Symmetric-Key-Cryptography-Quiz-fa66.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c865c0dd-0c5e-60e6-6ae6-440b93e229a3",
+   "title": "Unit2: Public Key Cryptography Quiz",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Unit2--Public-Key-Cryptography-Quiz-c865.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9253312d-73af-00c8-fcc6-6b10bd218175",
+   "title": "Unit3: Hash Functions Quiz",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Unit3--Hash-Functions-Quiz-9253.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1a24b08a-329f-52f1-7bed-d5b86b2852fd",
+   "title": "Unit4: Digital Signature",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Unit4--Digital-Signature-1a24.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "hideMenu": false
+}

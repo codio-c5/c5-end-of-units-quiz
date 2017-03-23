@@ -304,8 +304,8 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-3935225991",
   "source": {
-   "name": "Question2",
-   "showName": false,
+   "name": "Learning Objective 3.1",
+   "showName": true,
    "instructions": "**Hash functions can be used for which of the following (more than one may apply):**",
    "points": "1",
    "incorrectPoints": "0",
@@ -400,6 +400,78 @@
      "answer": "Signature of the issuer"
     }
    ]
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1142208868",
+  "source": {
+   "name": "Learning Objective 2.2",
+   "showName": true,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "instructions": " **What is the main difference between symmetric cryptography and asymmetric cryptography?**",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1641127668",
+  "source": {
+   "name": "Learning Objective 2.2 (also 1.5)",
+   "showName": true,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "instructions": "**What does asymmetric key cryptography provide that symmetric key cryptography does not? Explain.**",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-2945979448",
+  "source": {
+   "name": "Learning Objective 3.2",
+   "showName": true,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "instructions": "**Explain how the lack of the collision resistance property defies the purpose of a hash function.**",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1005354275",
+  "source": {
+   "name": "Learning Objective 3.3",
+   "showName": true,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "instructions": "**Name two commonly used hash functions.**",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-2760096935",
+  "source": {
+   "name": "Q3",
+   "showName": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "instructions": "**Describe how asymmetric (public) key cryptography is used for providing authenticity through digital signatures.**",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-195942456",
+  "source": {
+   "name": "Q5",
+   "showName": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "instructions": "**The certification path for the digital certificate for amazon.com can be seen in the picture below. Explain how the certificate for www.amazon.com is verified by appealing to the chain of trust among certificate authorities.**",
+   "points": 1
   }
  }
 ]

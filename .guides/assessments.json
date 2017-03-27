@@ -153,7 +153,7 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-1326124486",
   "source": {
-   "name": "Learning Objective 2.1",
+   "name": "Learning Objective 2.1 (a)",
    "showName": true,
    "instructions": "**Alice encrypts her message using:**",
    "points": "1",
@@ -187,7 +187,7 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-2228532584",
   "source": {
-   "name": "Question2",
+   "name": "Learning Objective 2.1 (b)",
    "showName": false,
    "instructions": "**and Bob decrypts is using:**",
    "points": "1",
@@ -280,7 +280,7 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-3536996212",
   "source": {
-   "name": "Question1",
+   "name": "Learning Objective 3.1",
    "showName": false,
    "instructions": "**True or False: Hash functions can be used for confidentiality**",
    "points": "1",
@@ -338,7 +338,7 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-2385171572",
   "source": {
-   "name": "Learning Objective 4.1",
+   "name": "Learning Objective 4.1 (a)",
    "showName": true,
    "instructions": "**To sign a message for Bob, Alice encrypts the hash of her message using:**",
    "points": "1",
@@ -372,7 +372,7 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-745001557",
   "source": {
-   "name": "Learning Objective 4.2",
+   "name": "Learning Objective 4.2 (a)",
    "showName": true,
    "instructions": "**Which of the following does a digital certificate NOT include? Select all that apply.**",
    "points": "1",
@@ -454,7 +454,7 @@
   "type": "free-text",
   "taskId": "free-text-2760096935",
   "source": {
-   "name": "Q3",
+   "name": "Learning Objective 4.1 (b)",
    "showName": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": false,
@@ -466,7 +466,7 @@
   "type": "free-text",
   "taskId": "free-text-195942456",
   "source": {
-   "name": "Q5",
+   "name": "Learning Objective 4.2 (b)",
    "showName": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": false,
